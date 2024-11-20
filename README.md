@@ -31,8 +31,8 @@ These metrics were designed for accessibility, allowing amateur and collegiate t
 
 ### Usage instructions
 - Clone the repo: 
-    - git clone [repository-url]
-    - cd [repository-folder]
+    - git clone https://github.com/joedots1/RCAR-DVAR-Sabermetrics/
+    - cd RCAR-DVAR-Sabermetrics/
 - Install Dependencies
     - pip install -r requirements.txt
 - Retrieve Data
