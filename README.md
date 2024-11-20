@@ -51,7 +51,7 @@ These metrics were designed for accessibility, allowing amateur and collegiate t
 - DVAR: Provided insights into defensive contributions but revealed structural biases (e.g., overvaluation of catchers and first basemen).
 
 **Additional Information**
-For a detailed explanation of the project goals, methodology, and findings, refer to the Jupyter Notebook (.ipynb), HTML, or PDF files in this repository.
+- For a detailed explanation of the project goals, methodology, and findings, refer to the Jupyter Notebook (.ipynb), HTML, or PDF files in this repository.
 
 **License**
 - This project is for educational and research purposes only.
